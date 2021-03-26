@@ -1,8 +1,8 @@
-# # Clever Programmer ReactJS Portfolio Template      
+# # Saurabh Sen ReactJS Portfolio Template      
 
 ![ReactJS Resume Website Template](portfolio.png?raw=true "ReactJS Resume Website Template")
 
-## <a href="https://pensive-golick-762a4c.netlify.app" target="_blank">LIVE DEMO</a>
+## <a href="https://saurabh-sen-portfolio.netlify.app/" target="_blank">LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
@@ -26,4 +26,4 @@ Here is the link to download zip 👉
 
 ## Credits
 
-#### Credits to Saad Pasta <a href='https://github.com/saadpasta/developerFolio'>Original Repo</a>
+#### Credits to Saurabh Sen <a href='https://github.com/saurabhsen1212'>Original Repo</a>
