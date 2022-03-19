@@ -13,7 +13,7 @@ export default function Footer() {
           {emoji("Developed with ♥ by Saurabh Sen ")}
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          Thanks for visiting here 🤗{" "}
+          Thanks for visiting here <span role=img>🤗 </span>{" "}
           {/* <a href="https://github.com/saadpasta/developerFolio">
             developerFolio
           </a> */}
